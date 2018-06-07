@@ -1,7 +1,7 @@
 /**
  * 方法静态解析演示
  * 
- * @author zzm
+ * @author Agnostic
  */
 public class StaticResolution {
 
